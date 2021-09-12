@@ -167,4 +167,8 @@ public class coordinates implements Cloneable {
             return null;
         }
     }
+    public cds()
+    {
+        
+    }
 }
